@@ -1,0 +1,15 @@
+D:\kimjoohyen\test4\test4\bin\Debug\net6.0\test4.exe
+D:\kimjoohyen\test4\test4\bin\Debug\net6.0\test4.deps.json
+D:\kimjoohyen\test4\test4\bin\Debug\net6.0\test4.runtimeconfig.json
+D:\kimjoohyen\test4\test4\bin\Debug\net6.0\test4.dll
+D:\kimjoohyen\test4\test4\bin\Debug\net6.0\test4.pdb
+D:\kimjoohyen\test4\test4\obj\Debug\net6.0\test4.csproj.AssemblyReference.cache
+D:\kimjoohyen\test4\test4\obj\Debug\net6.0\test4.GeneratedMSBuildEditorConfig.editorconfig
+D:\kimjoohyen\test4\test4\obj\Debug\net6.0\test4.AssemblyInfoInputs.cache
+D:\kimjoohyen\test4\test4\obj\Debug\net6.0\test4.AssemblyInfo.cs
+D:\kimjoohyen\test4\test4\obj\Debug\net6.0\test4.csproj.CoreCompileInputs.cache
+D:\kimjoohyen\test4\test4\obj\Debug\net6.0\test4.dll
+D:\kimjoohyen\test4\test4\obj\Debug\net6.0\refint\test4.dll
+D:\kimjoohyen\test4\test4\obj\Debug\net6.0\test4.pdb
+D:\kimjoohyen\test4\test4\obj\Debug\net6.0\test4.genruntimeconfig.cache
+D:\kimjoohyen\test4\test4\obj\Debug\net6.0\ref\test4.dll

@@ -1,0 +1,51 @@
+using System;
+using System.Diagnostics.Metrics;
+using System.Drawing;
+
+namespace test0
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int consonant = 0, vowel = 0;
+
+            int count1 = 0;
+            int count2 = 0;
+
+            Console.WriteLine("자음, 모음의 개수를 세는 프로그램");
+            string input = Console.ReadLine();
+            
+            char a1 = 'a';
+            char e1 = 'e';
+            char i1 = 'i';
+            char o1 = 'o';
+            char u1 = 'u';
+
+            int a2 = input.Count(f => (f == a1));
+            int e2 = input.Count(f => (f == e1));
+            int i2 = input.Count(f => (f == i1));
+            int o2 = input.Count(f => (f == o1));
+            int u2 = input.Count(f => (f == u1));
+
+            for (int i = 0; i<10; i++)
+            {
+                if (a1 == 'a' || e1 == 'e' || i1 == 'i' || o1 == 'o' || u1 == 'u')
+                    vowel++;
+                else
+                    consonant++;
+
+            }
+
+            Console.WriteLine("모음의 갯수");
+            Console.WriteLine(vowel);
+
+            Console.WriteLine("자음의 갯수");
+            Console.WriteLine(consonant);
+
+
+
+        }
+        
+    }
+}

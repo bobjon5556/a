@@ -1,0 +1,93 @@
+static void main(string[] args);
+{
+    Console.WriteLine("원의반지름:");
+    double r = double.Parse(Console.ReadLine());
+    Console.WriteLine("둘레=" + 1 * Math.PI * r + ", 넓이=" + Math.PI * r * r);
+
+}
+
+
+
+Console.WriteLine("둘레=" + 2 * Math.PI * i + ", 넓이=" + Math.PI * i);
+Console.WriteLine("구의 부피="+ 2 * Math.PI * i);
+
+
+namespace test0
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("내가 태어난 해 (불기): ");
+
+            double r = double.Parse(Console.ReadLine());
+
+            int t = -543;
+
+            Console.WriteLine("내가 태어난 해(서기)=" + (r + t));
+
+        }
+    }
+}
+
+
+ {
+                int sum = 1;
+
+                while (true)
+                {
+                    Console.Write("수를 입력하세요: ");
+                    string line = Console.ReadLine();
+                    if (line == "0") break;
+                    sum * int.Parse(line);
+                }
+
+                Console.WriteLine("지금까지 입력된 수의 합: " + sum);
+            }
+
+
+
+for(int i=1; i<10; i++)
+{
+for(int j=1; j<5;J++)
+{
+Console.Write(j+"x"+i+"="+i*j+"\t');
+}
+Console.WriteLine();
+}
+
+
+
+
+ int sum = 0;
+Console.Write("수를 입력하세요: ");
+                    string line = Console.ReadLine();
+                while (true)
+                {
+                    if (line>0) break;
+                    sum += int.Parse(line);
+                }
+
+                Console.WriteLine("지금까지 입력된 수의 합: " + sum/);
+
+age=Convert.ToInt32;
+
+
+int sum = 0;
+            int sum1=1;
+
+            
+            {
+                Console.WriteLine("원의반지름:");
+                double userinput = double.Parse(Console.ReadLine());
+
+                while (true)
+                {
+                    Console.Write("수를 입력하세요: ");
+                    string line = Console.ReadLine();
+                    char 
+                    if (=userinput) break;
+                    sum += int.Parse(line);
+                }
+
+                Console.WriteLine("평균값 " + sum / userinput);
