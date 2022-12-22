@@ -1,0 +1,22 @@
+ {
+            int value1 = 0, value2 = 0, value3 = 0;
+
+            //난수 생성을 위한 클래스 선언
+            Random random = new Random();
+
+            //서로 다른 3자리 숫자를 만들기 위해 계속 반복 작업 수행
+            //무한루트를 방지하기 위해 20번까지만 반복
+            for (int i = 0; i < 20; i++)
+            {
+                int rnd = random.Next(1, 10);   //1~9 사이의 단일 정수
+
+                if (value1 == 0)
+                    value1 = rnd;
+                else if (value1 != 0 && value2 == 0 && value1 != rnd)
+                    value2 = rnd;
+                else if (value1 != 0 && value2 != 0 && value3 == 0 && value1 != rnd && value2 != rnd)
+                    value3 = rnd;
+
+                if (value3 != 0)
+                    break;
+            }

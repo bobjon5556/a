@@ -1,0 +1,77 @@
+import random
+secretNumber = random.randint(1, 20)
+print('1부터 20까지의 숫자가 있습니다.')
+
+# 플레이어에게 6번의 추측을 요청한다.
+for guessTaken in range(1, 7):
+    print('예상하는 숫자를 입력하세요.')
+    guess = int(input())
+
+    if guess < secretNumber:
+        print('예상한 숫자가 너무 작습니다.')
+    elif guess > secretNumber:
+        print('예상한 숫자가 너무 큽니다.')
+    else:
+        break
+if guess == secretNumber:
+    print('예상한 숫자 ' + str(guess) + '는 정답입니다.')
+else:
+    print('아니오. 내가 생각하고 있던 번호는 ' + str(secretNumber) + '입니다.')
+
+
+
+
+----
+
+Random rand = new Random();
+
+            int num1, num2;
+            int num3, secretNumber;
+
+            secretNumber = rand.Next(1,100);
+
+
+            for (int i = 0; i < 7; ++i)
+            {
+                Console.Write("숫자를 입력하세요: ");
+                string input = Console.ReadLine();
+                int number = Int32.Parse(input);
+
+                {
+                    if (number < secretNumber)
+                        Console.WriteLine("숫자가 작습니다.");
+                    else if (number > secretNumber)
+                        Console.WriteLine("숫자가 큽니다");
+                    else
+                        Console.WriteLine("정답입니다");
+                }
+            }
+                if (number == secretNumber)
+                    Console.WriteLine("정답입니다.");
+                else
+                    Console.WriteLine("오답입니다 답은 "+ secretNumber+"입니다");
+
+
+---------
+
+//[1] Input(입력)
+
+        int sum = 0;
+
+ 
+
+        //[2] Process(처리)
+
+        for (int i = 1; i <= 100; i++) // i가 1에서 100까지 100번 반복
+
+        {
+
+            sum += i; // sum = sum + i; // 누적(SUM)
+
+        }
+
+ 
+
+        //[3] Output(출력)
+
+        Console.WriteLine("1부터 100까지 정수의 합: {0}",  sum); // 5050
