@@ -1,0 +1,15 @@
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\bin\Debug\net6.0\whtaisfcnction.exe
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\bin\Debug\net6.0\whtaisfcnction.deps.json
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\bin\Debug\net6.0\whtaisfcnction.runtimeconfig.json
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\bin\Debug\net6.0\whtaisfcnction.dll
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\bin\Debug\net6.0\whtaisfcnction.pdb
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\obj\Debug\net6.0\whtaisfcnction.csproj.AssemblyReference.cache
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\obj\Debug\net6.0\whtaisfcnction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\obj\Debug\net6.0\whtaisfcnction.AssemblyInfoInputs.cache
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\obj\Debug\net6.0\whtaisfcnction.AssemblyInfo.cs
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\obj\Debug\net6.0\whtaisfcnction.csproj.CoreCompileInputs.cache
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\obj\Debug\net6.0\whtaisfcnction.dll
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\obj\Debug\net6.0\refint\whtaisfcnction.dll
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\obj\Debug\net6.0\whtaisfcnction.pdb
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\obj\Debug\net6.0\whtaisfcnction.genruntimeconfig.cache
+C:\Users\me\coding\whtaisfcnction\whtaisfcnction\obj\Debug\net6.0\ref\whtaisfcnction.dll

@@ -1,0 +1,15 @@
+C:\Users\me\coding\whatisfunction\whatisfunction\bin\Debug\net6.0\whatisfunction.exe
+C:\Users\me\coding\whatisfunction\whatisfunction\bin\Debug\net6.0\whatisfunction.deps.json
+C:\Users\me\coding\whatisfunction\whatisfunction\bin\Debug\net6.0\whatisfunction.runtimeconfig.json
+C:\Users\me\coding\whatisfunction\whatisfunction\bin\Debug\net6.0\whatisfunction.dll
+C:\Users\me\coding\whatisfunction\whatisfunction\bin\Debug\net6.0\whatisfunction.pdb
+C:\Users\me\coding\whatisfunction\whatisfunction\obj\Debug\net6.0\whatisfunction.csproj.AssemblyReference.cache
+C:\Users\me\coding\whatisfunction\whatisfunction\obj\Debug\net6.0\whatisfunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\coding\whatisfunction\whatisfunction\obj\Debug\net6.0\whatisfunction.AssemblyInfoInputs.cache
+C:\Users\me\coding\whatisfunction\whatisfunction\obj\Debug\net6.0\whatisfunction.AssemblyInfo.cs
+C:\Users\me\coding\whatisfunction\whatisfunction\obj\Debug\net6.0\whatisfunction.csproj.CoreCompileInputs.cache
+C:\Users\me\coding\whatisfunction\whatisfunction\obj\Debug\net6.0\whatisfunction.dll
+C:\Users\me\coding\whatisfunction\whatisfunction\obj\Debug\net6.0\refint\whatisfunction.dll
+C:\Users\me\coding\whatisfunction\whatisfunction\obj\Debug\net6.0\whatisfunction.pdb
+C:\Users\me\coding\whatisfunction\whatisfunction\obj\Debug\net6.0\whatisfunction.genruntimeconfig.cache
+C:\Users\me\coding\whatisfunction\whatisfunction\obj\Debug\net6.0\ref\whatisfunction.dll
